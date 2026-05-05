@@ -47,7 +47,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/sagarn211/EventBuddy.git
+   git clone https://github.com/PROFESSOR1631/Event-Buddy.git
    cd EventBuddy
    ```
 
